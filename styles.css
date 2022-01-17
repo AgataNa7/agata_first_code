@@ -1,0 +1,20 @@
+.container {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 35px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+body {
+  background-color:rgb(173, 134, 134);
+}
+
+.list-img{
+    width: 100px;
+    height: 100px;
+}
